@@ -1,7 +1,7 @@
 <span id="a">vishwanatha@V</span>:<span id="b">~</span><span id="c">$</span> cat vishwa.txt<br/><br/>
 Hi, I'm Vishwanatha.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I majored in Computer Science.  I graduated from <a href="http://www.vtu.ac.in">Vishwesvaraya Technological University</a> in the year 2013 .</p>
+<p>I majored in Computer Science.  I graduated from <a href="http://bangaloreuniversity.ac.in/">Bangalore University</a>in the year 2013 .</p>
 <p>I love to code in AngulatJS . Now learning to code applications on the Angular2 platform.</p>
 <p>My hobbies are to  play Cricket, listen to music, and travel.</p>
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href="mailto:vishwackh89@gmail.com">vishwackh89@gmail.com</a>
-<p>And you can check out my <a href="https://github.com/sagarayi/sagarayi.github.io/blob/master/vishwa_Resume.pdf">Resume</a>. The resume is designed using a Latex template.</p>
+<p>And you can check out my <a href="https://github.com/vishwackh/vishwackh.github.io/blob/master/Vishwa_resume.pdf">Resume</a>. The resume is designed using a Latex template.</p>
